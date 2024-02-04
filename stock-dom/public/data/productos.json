@@ -1,0 +1,7 @@
+[
+    { "tipo": "franela", "color ": "rojo", "cantidad": 15000,  "id": 1 },
+    { "tipo": "Taza", "cantidad": 25000,"color ": "blanco", "id": 2 },
+    { "tipo": "franela", "cantidad": 35000,"color ": "azul" , "id": 3 },
+    { "tipo": "Taza", "cantidad": 25000,"color ": "negro" ,"id": 4 },
+    { "tipo": "Taza", "cantidad": 25000,"color ": "amarillo", "id": 5 }
+ ]
